@@ -1,11 +1,11 @@
-title: Hexo
+title: 晓前端
 subtitle: ''
 description: ''
 keywords: null
-author: John Doe
-language: en
+author: xiaoheiban.cn
+language: zh-CN
 timezone: ''
-url: 'http://example.com'
+url: 'https://www.xiaoheiban.cn'
 root: /
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
