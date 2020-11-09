@@ -103,27 +103,25 @@ navbar:
         归档: /archives
         分类: /categories
         标签: /tags
-        关于我们: /about
+        # 关于我们: /about
     # Links to be shown on the right of the navigation bar
     links:
-        # 暂时注释
-        # Download on GitHub:
-        #     icon: fab fa-github
-        #     url: 'https://github.com/ppoffice/hexo-theme-icarus'
+        GitHub:
+            icon: fab fa-github
+            url: 'https://github.com/tal-tech'
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
     links:
-    # 暂时注释
     #     Creative Commons:
     #         icon: fab fa-creative-commons
     #         url: 'https://creativecommons.org/'
     #     Attribution 4.0 International:
     #         icon: fab fa-creative-commons-by
     #         url: 'https://creativecommons.org/licenses/by/4.0/'
-    #     Download on GitHub:
-    #         icon: fab fa-github
-    #         url: 'https://github.com/ppoffice/hexo-theme-icarus'
+        GitHub:
+            icon: fab fa-github
+            url: 'https://github.com/tal-tech'
 # Article related configurations
 article:
     # Code highlight settings
@@ -139,13 +137,13 @@ article:
     readtime: true
     # Article licensing block
     licenses:
-        Creative Commons:
-            icon: fab fa-creative-commons
-            url: 'https://creativecommons.org/'
-        Attribution:
-            icon: fab fa-creative-commons-by
-            url: 'https://creativecommons.org/licenses/by/4.0/'
-        Noncommercial:
+        # Creative Commons:
+        #     icon: fab fa-creative-commons
+        #     url: 'https://creativecommons.org/'
+        # Attribution:
+        #     icon: fab fa-creative-commons-by
+        #     url: 'https://creativecommons.org/licenses/by/4.0/'
+        严禁商业用途:
             icon: fab fa-creative-commons-nc
             url: 'https://creativecommons.org/licenses/by-nc/4.0/'
 # Search plugin configurations
@@ -231,20 +229,18 @@ widgets:
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        # 暂时注释
-        # follow_link: 'https://github.com/ppoffice'
-        # 暂时注释
+        follow_link: 'https://github.com/tal-tech'
         # Links to be shown on the bottom of the profile widget
-        # social_links:
-        #     Github:
-        #         icon: fab fa-github
-        #         url: 'https://github.com/ppoffice'
-        #     Facebook:
-        #         icon: fab fa-facebook
-        #         url: 'https://facebook.com'
-        #     Twitter:
-        #         icon: fab fa-twitter
-        #         url: 'https://twitter.com'
+        social_links:
+            知乎:
+                icon: fab fa-zhihu
+                url: 'https://www.zhihu.com/people/xiao-hei-ban-qian-duan-ji-zhu'
+            掘金:
+                icon: fab fa-buffer
+                url: 'https://juejin.im/user/1327865776581463'
+            Github:
+                icon: fab fa-github
+                url: 'https://github.com/tal-tech'
         #     Dribbble:
         #         icon: fab fa-dribbble
         #         url: 'https://dribbble.com'

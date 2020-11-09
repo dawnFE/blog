@@ -2,10 +2,10 @@ title: 晓前端
 subtitle: ''
 description: ''
 keywords: null
-author: xiaoheiban.cn
+author: 晓黑板前端团队
 language: zh-CN
 timezone: ''
-url: 'https://www.xiaoheiban.cn'
+url: 'https://dawnfe.github.io/blog/'
 root: /blog/
 # root: /
 permalink: ':year/:month/:day/:title/'
