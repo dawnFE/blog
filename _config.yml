@@ -6,7 +6,7 @@ author: xiaoheiban.cn
 language: zh-CN
 timezone: ''
 url: 'https://www.xiaoheiban.cn'
-root: /xiaofe-blog/
+root: /blog/
 # root: /
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
