@@ -3,11 +3,11 @@ version: 4.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: https://xiaoheiban.cn/Public/v2/loginew/images/logo.png
+logo: https://pc.xiaoheiban.cn/common/c2dce9903a0c5229b60faead763e10f9.png
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: https://xiaoheiban.cn/Public/v2/images/favicon.ico
+    # favicon: https://xiaoheiban.cn/Public/v2/images/favicon.ico
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
