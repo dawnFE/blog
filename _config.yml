@@ -5,9 +5,10 @@ keywords: null
 author: 晓黑板前端团队
 language: zh-CN
 timezone: ''
-url: 'https://dawnfe.github.io/blog/'
-root: /blog/
-# root: /
+url: 'http://xfe.cool/'
+# url: 'https://dawnfe.github.io/blog/'
+# root: /blog/
+root: /
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
