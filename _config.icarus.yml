@@ -7,7 +7,7 @@ logo: https://pc.xiaoheiban.cn/common/c2dce9903a0c5229b60faead763e10f9.png
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    # favicon: https://xiaoheiban.cn/Public/v2/images/favicon.ico
+    favicon: https://xiaoheiban.cn/favicon.png
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -384,11 +384,11 @@ plugins:
         # Twitter Pixel ID
         pixel_id: 
 # CDN provider settings
-# https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
+# https://blog.zhangruipeng.me/hexo-theme-icarus/Configuration/icarus-user-guide-cdn-providers/
 providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
     cdn: jsdelivr
     # Name or URL template of the webfont CDN provider
-    fontcdn: google
+    fontcdn: loli
     # Name or URL of the fontawesome icon font CDN provider
-    iconcdn: fontawesome
+    iconcdn: loli
