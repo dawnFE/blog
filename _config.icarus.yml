@@ -101,8 +101,8 @@ navbar:
     menu:
         首页: /
         归档: /archives
-        分类: /categories
-        标签: /tags
+        # 分类: /categories
+        # 标签: /tags
         # 关于我们: /about
     # Links to be shown on the right of the navigation bar
     links:
@@ -276,7 +276,7 @@ widgets:
     # Recent posts widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: recent_posts
     # Archives widget configurations
     -
@@ -284,10 +284,10 @@ widgets:
         position: left
         type: archives
     # Tags widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: right
-        type: tags
+    # -
+    #     # Where should the widget be placed, left sidebar or right sidebar
+    #     position: right
+    #     type: tags
     # Google FeedBurner email subscription widget configurations
     # 暂时注释
     # -

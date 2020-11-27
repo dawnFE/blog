@@ -1,10 +1,10 @@
 widgets:
     -
         type: categories
-        position: left
-    -
-        type: tags
-        position: left
+        position: right
+    # -
+    #     type: tags
+    #     position: left
     -
         # Where should the widget be placed, left sidebar or right sidebar
         position: left
